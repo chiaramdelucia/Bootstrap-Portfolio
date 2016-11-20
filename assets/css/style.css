@@ -1,0 +1,107 @@
+body{
+	
+	color: #777777;
+	font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.head {
+	background-color: #ffffff;
+	
+}
+
+ul{
+	list-style-type: none;
+	margin-top: 30px;
+	
+}
+
+li {
+	display: inline-block;
+	padding: 5px;
+	border-style: solid;
+	border-color: #777777;
+	border-width: 0px 1px 0px 0px;
+}
+
+.noBorder{
+	border-width: 0;
+}
+
+.main {
+	background-image: url("../images/cheap_diagonal_fabric.png");
+	padding: 100px;
+	height: 100%;
+}
+
+.well {
+	background-color: #ffffff;
+	border-radius: 0;	
+}
+
+hr {
+    border-style: solid;
+    border-color: #777777;
+    border-width: 2px 0 0 0;
+}
+
+
+h1 {
+	font-size: 30px;
+	background-color: #4aaaa5;
+	padding: 30px;
+	color: #fff;
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
+	margin: 0 35% 0 16%;
+}
+
+h2 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color: #4aaaa5;
+}
+
+.me {
+	padding: 10px;
+}
+
+p {
+	padding: 10px;
+}
+
+a {
+	color: #777777;
+	text-decoration: none;
+}
+
+.thumb {
+	width: 70px;
+	height: 70px;
+}
+
+.placeHolder {
+	width: 200px;
+	height: 200px;
+	padding: 5px;
+
+}
+
+.connect {
+	text-align: center;
+}
+
+.btn {
+	color: #fff;
+	background-color: #4aaaa5;
+	border-radius: 0;
+}
+
+.footer {
+	background-color: #666666;
+	text-align: center;
+	width: 100%;
+	padding: 30px;
+	color: #fff;
+	border-top: 10px;
+	border-style: solid;
+	border-color: #4aaaa5;
+}
+
