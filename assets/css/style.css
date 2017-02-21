@@ -72,6 +72,10 @@ a {
 	text-decoration: none;
 }
 
+a.foot {
+ 	color: hotpink;
+ }
+
 .thumb {
 	width: 70px;
 	height: 70px;
@@ -98,7 +102,7 @@ a {
 	background-color: #666666;
 	text-align: center;
 	width: 100%;
-	padding: 30px;
+	padding: 10px;
 	color: #fff;
 	border-top: 10px;
 	border-style: solid;
