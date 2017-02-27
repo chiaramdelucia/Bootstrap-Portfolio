@@ -107,7 +107,7 @@ a.foot {
 
 .footer {
 /*	background-color: #666666;*/
-
+	background-image: url("../images/cheap_diagonal_fabric.png");
 	text-align: center;
 	width: 100%;
 	padding: 10px;
