@@ -1,0 +1,86 @@
+body{
+	font-family: 'Scope One', serif;
+	font-size: 40px;
+}
+
+
+.main {
+	margin-top: 70px;
+}
+
+
+h1 {
+	font-size: 50px;
+	background-color: #4aaaa5;
+	padding: 10px;
+	color: #fff;
+
+	font-style: italic;
+	margin: 0;
+	width: 100%;
+}
+.name{
+	color: grey;
+	font-family: 'Satisfy', cursive;
+}
+
+.name:hover{
+	cursor: pointer;
+	font-family: 'Scope One', serif;
+}
+
+a {
+	color: grey;
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: none;
+	font-family: 'Satisfy', cursive;
+
+}
+
+a.foot {
+ 	color: hotpink;
+ }
+
+.thumb {
+	width: 40px;
+	height: 40px;
+	background-color: gray;
+}
+
+.thumb:hover{
+	width: 70px;
+	height: 70px;
+	margin-top: -18px;
+	-moz-box-shadow:    0 0 50px gray;
+	-webkit-box-shadow: 0 0 50px gray;
+	box-shadow:         0 0 50px gray;    
+}
+
+/*.placeHolder {
+	width: 200px;
+	height: 200px;
+	padding: 5px;
+
+}*/
+
+.connect {
+	text-align: center;
+	color: gray;
+}
+
+/*.btn {
+	color: #fff;
+	background-color: #4aaaa5;
+	border-radius: 0;
+}*/
+
+.footer {
+	text-align: center;
+	width: 100%;
+	padding: 50px;
+	font-size: 15px;
+}
+
