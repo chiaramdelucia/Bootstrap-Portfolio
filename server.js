@@ -21,10 +21,7 @@ app.use(express.static('./app/public'));
 
 //Routes
 // =============================================================
-app.get('/', function (req, res){
-	res.sendFile(path.join(__dirname, '/app/public/index.html'));
-
-});
+require('./app/routing/htmlRoutes.js')(app);
 
 
 
