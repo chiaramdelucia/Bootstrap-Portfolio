@@ -1,7 +1,5 @@
-.wow { 
-	visibility: hidden; 
-}
-
-body{
-	height: 7000px;
+.work {
+	font-family: 'Scope One', serif;
+	padding-top: 200px;
+	font-size: 20px;
 }
