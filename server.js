@@ -27,10 +27,10 @@ app.get('/', function (req, res){
 
 });
 
-// app.get('/', function (req, res){
-// 	res.sendFile(path.join(__dirname, '/../public/home.html'));
+app.get('/portfolio', function (req, res){
+	res.sendFile(path.join(__dirname, 'app/public/portfolio.html'));
 
-// });
+});
 
 
 //Listen on port 3000

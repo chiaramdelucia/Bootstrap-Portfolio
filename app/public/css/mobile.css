@@ -1,0 +1,26 @@
+@media (max-width: 410px) {
+	.main{
+		margin-left: 10px;
+		margin-right: 10px;
+		text-align: center;
+	}
+
+    .header{
+    	
+    }
+	
+	#name{
+		font-size: 10px;
+		left: 50px;
+	}
+
+    .connect{
+    	font-size: 20px;
+    	left: 10px;
+    }
+
+    #crystal_collector{
+    	margin-right: 10px;
+    	margin-left: 10px;
+    }
+}

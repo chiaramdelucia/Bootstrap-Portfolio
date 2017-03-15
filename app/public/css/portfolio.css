@@ -15,7 +15,6 @@ body{
 	font-family:'Satisfy', cursive;	
 	font-size: 50px;
 	position: relative;
-	left: 100px;
 	color: white
 }
 
@@ -26,10 +25,10 @@ body{
 .connect {
 	text-align: center;
 	color: gray;
-	position: fixed;
-	left: 900px;
+	/*position: relative;*/
+	/*left: 300px;*/
 	color: white;
-	padding-top: 15px;
+	/*margin-top: 0px;*/
 	/*font-size: 20px;*/
 }
 
@@ -56,7 +55,7 @@ body{
 
 }
 
-.work {
+#crystal_collector {
 	padding-top: 200px;
 	font-size: 20px;
 }
@@ -64,11 +63,12 @@ body{
 hr{
 	border-color: black;
 }
+
 .tags {
 	font-size: 15px;
 }
 
-.crystal_collector{
-	height: 350px;
-	width: auto;
+img {
+	width: 100%;
+	height: auto;
 }
