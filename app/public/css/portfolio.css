@@ -1,6 +1,6 @@
 body{
 	font-family: 'Scope One', serif;
-	font-size: 20px;
+	/*font-size: 20px;*/
 	height: 1000px;
 }
 
@@ -58,6 +58,14 @@ body{
 
 .work {
 	padding-top: 200px;
+	font-size: 20px;
+}
+
+hr{
+	border-color: black;
+}
+.tags {
+	font-size: 15px;
 }
 
 .crystal_collector{
