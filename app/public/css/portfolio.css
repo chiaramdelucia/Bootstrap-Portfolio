@@ -1,5 +1,66 @@
-.work {
+body{
 	font-family: 'Scope One', serif;
-	padding-top: 200px;
 	font-size: 20px;
+	height: 1000px;
+}
+
+.header{
+	position: fixed;
+	z-index: 1;
+	background-color: #ff8ea1;
+	width: 100%;
+}
+
+#name {
+	font-family:'Satisfy', cursive;	
+	font-size: 50px;
+	position: relative;
+	left: 100px;
+	color: white
+}
+
+#name:hover {
+	font-family: 'Scope One', serif;
+}
+
+.connect {
+	text-align: center;
+	color: gray;
+	position: fixed;
+	left: 900px;
+	color: white;
+	padding-top: 15px;
+	/*font-size: 20px;*/
+}
+
+.thumb {
+	width: 30px;
+	height: 30px;
+	background-color: white;
+}
+
+.thumb:hover{
+	width: 40px;
+	height: 40px;
+	margin-top: -18px;
+}
+
+.click {
+	color: grey;
+	text-decoration: none;
+}
+
+.click:hover{
+	text-decoration: none;
+	font-family: 'Satisfy', cursive;
+
+}
+
+.work {
+	padding-top: 200px;
+}
+
+.crystal_collector{
+	height: 350px;
+	width: auto;
 }
