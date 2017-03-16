@@ -2,6 +2,7 @@ body{
 	font-family: 'Scope One', serif;
 	/*font-size: 20px;*/
 	height: 1000px;
+	
 }
 
 .header{
@@ -24,12 +25,9 @@ body{
 
 .connect {
 	text-align: center;
+	text-decoration: none;
 	color: gray;
-	/*position: relative;*/
-	/*left: 300px;*/
 	color: white;
-	/*margin-top: 0px;*/
-	/*font-size: 20px;*/
 }
 
 .thumb {
@@ -53,6 +51,12 @@ body{
 	text-decoration: none;
 	font-family: 'Satisfy', cursive;
 
+}
+
+.cc{
+	top: 170px;
+	text-align: center;
+	border-bottom: 1px solid black;
 }
 
 #crystal_collector {
