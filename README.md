@@ -1,6 +1,6 @@
 # Website-Portfolio
 
-> This is the repository for my personal website which displays all my working web applications.
+> This is the repository for my personal website which displays some of my web applications. Visit here: http://chiaradelucia.click/
 
 ### Technologies Used
   * HTML
