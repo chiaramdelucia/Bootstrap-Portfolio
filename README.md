@@ -5,7 +5,7 @@
 ### Technologies Used
   * HTML
   * CSS3
-  * JQuery
+  * jQuery
   * Express
   
 ### Features  
@@ -13,5 +13,6 @@
  - [x] Connect With Me
  - [x] Portfolio Page
  - [x] Mobile Responsive
+ - [ ] Create flip-cards of projects on portfolio page
  - [ ] Tablet Responsive
  - [ ] Contact Form
